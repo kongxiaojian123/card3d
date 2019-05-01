@@ -1,0 +1,23 @@
+{
+  "name": "card3d",
+  "version": "1.0.0",
+  "description": "webGL 3d card",
+  "main": "./js/cardMain.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongxiaojian123/card3d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongxiaojian123/card3d/issues"
+  },
+  "homepage": "https://github.com/kongxiaojian123/card3d#readme",
+  "dependencies": {
+    "d3-ease": "^1.0.5",
+    "gl-mat4": "^1.2.0"
+  }
+}
